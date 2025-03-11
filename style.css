@@ -82,13 +82,13 @@
 }
 
 .my_tbl{
-    color: #48b150;
+    color: #0a5310;
     border-collapse: collapse;
 }
 
 .my_tbl th, td {
     padding: 15px;
-    border-bottom: 1px solid #48b150;
+    border-bottom: 1px solid #cfffd3;
 }
 
 tr:hover {
@@ -122,4 +122,8 @@ tr:hover {
     background-color: #a1e898;
     color: #906333;
     border-radius: 0px 0px 0px 0px;
+}
+
+body {
+    background-image: linear-gradient(0deg,  #cbee31 0%, #337e43 100%);
 }
